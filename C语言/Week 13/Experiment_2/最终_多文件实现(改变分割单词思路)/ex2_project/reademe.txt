@@ -1,0 +1,15 @@
+各文件使用VS2022编写，使用UTF-8编码
+
+各文件说明：
+ex2_project.vcxproj       VS项目文件
+Ex2main.c                     程序主函数
+Ex2Global.h                  包含全局变量定义和函数声明
+Ex2InOut.h                   输入输出函数声明头文件
+Ex2InOut.c                   输入输出相关函数代码实现
+Ex2Replace.h                替换错误单词函数声明头文件
+Ex2Replace.c                替换错误单词函数代码实现
+1.c                                测试数据1 错误词max 正确词MAX
+1.txt                             测试数据2  错误词wo 正确词we
+2.txt                             测试数据3  错误词holday 正确词holiday
+ex2_x64.exe                  64位应用程序
+ex2_x86.exe                  32位应用程序
